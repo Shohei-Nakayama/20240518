@@ -1,0 +1,16 @@
+*{
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+body{
+    font-size: 40px;
+}
+
+.container{
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
